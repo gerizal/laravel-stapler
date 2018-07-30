@@ -19,7 +19,7 @@
             "src/migrations"
         ],
         "psr-4": {
-            "astrnt\\LaravelStapler\\": "src/"
+            "Codesleeve\\LaravelStapler\\": "src/"
         }
     },
     "repositories": [
