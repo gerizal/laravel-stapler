@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "astrnt/stapler": "dev-master",
+        "gerizal/stapler": "dev-master",
         "laravel/framework": "4.*|5.*"
     },
     "autoload": {
@@ -25,7 +25,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/astrnt/stapler"
+            "url": "https://github.com/gerizal/stapler"
         }
     ],
     "minimum-stability": "dev"
